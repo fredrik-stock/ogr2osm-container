@@ -1,6 +1,8 @@
 # ogr2osm in a container
 Container for running [ogr2osm](https://github.com/pnorman/ogr2osm) in an OS agnostic environment. ogr2osm is a tool for converting geospatial data in a format [supported by ogr](http://gdal.org/1.11/ogr/ogr_formats.html) into OSM format.
 
+Updated to use Python3 to allow non-clumsy Unicode
+
 ## Setup
 
 1. [Install Docker](https://docs.docker.com/install)
